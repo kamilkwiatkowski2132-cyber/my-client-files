@@ -1,0 +1,5 @@
+Wersja 1.0
+- Nowe mody
+- Fabric 1.20.1
+- Poprawki wydajności
+- Chleb skisl
